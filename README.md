@@ -8,18 +8,19 @@ Modificados archivos:
 
 ## Resultado de Task 1.5: Training
 
-## Resultado de Task 1.5: Training
+### Ejemplo linealmente separable
 <p float="left">
-  <img src="https://github.com/JesusATL/Module-1/blob/master/images/m1e0.png" width="100" />
-  <img src="https://github.com/JesusATL/Module-1/blob/master/images/m1e40.png" width="100" />
-  <img src="https://github.com/JesusATL/Module-1/blob/master/images/m1e490.png" width="100" />
+  <img src="https://github.com/JesusATL/Module-1/blob/master/images/m1e0.png" width="300" />
+  <img src="https://github.com/JesusATL/Module-1/blob/master/images/m1e40.png" width="300" />
+  <img src="https://github.com/JesusATL/Module-1/blob/master/images/m1e490.png" width="300" />
 </p>
-# Resultado de Task 1.5: Training
+
+### Ejemplo no separable linealmente
 
 <p float="left">
-  <img src="https://github.com/JesusATL/Module-1/blob/master/images/xore10.png" width="100" />
-  <img src="https://github.com/JesusATL/Module-1/blob/master/images/xore60.png" width="100" />
-  <img src="https://github.com/JesusATL/Module-1/blob/master/images/xore490.png" width="100" />
+  <img src="https://github.com/JesusATL/Module-1/blob/master/images/xore10.png" width="300" />
+  <img src="https://github.com/JesusATL/Module-1/blob/master/images/xore60.png" width="300" />
+  <img src="https://github.com/JesusATL/Module-1/blob/master/images/xore490.png" width="300" />
 </p>
 
 ## Ejecucion run_tests.py
